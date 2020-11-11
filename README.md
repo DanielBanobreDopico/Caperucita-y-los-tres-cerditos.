@@ -7,4 +7,5 @@
 * [Fiesta con los Siete Cabritillos en la casa de los Tres Cerditos](fiesta.md)
 * [El Lobo llega iracundo](loboiracundo.md)
 * [Los Siete Enanitos llegan al rescate](sieteenanitos.md)
+* [Caperucita pasa de todos ellos](caperucitapasadetodos.md)
 * [Y colorín colorado...](colorincolorado.md)
