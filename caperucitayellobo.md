@@ -8,4 +8,5 @@ Este grupo, conocido como *Los leñadores*, actuaba en la sombra, en la *deep we
 el lobo suele pasar las tardes en el bosquee y es el mejor vendedor de Caperucita's Store por lo que vende mucho y se saca una pasta cada mes, y este mes
 espera sacar una comision especial por venderle los materiales de construccion a los 3 cerdos que quieren hacerse cada uno una casa en Lugo con la que esta cayendo, pero ultimamente suele ir a trabajar (a veces ) a la tienda de materiales de construccion
 
+Texto en Caperucita y el Lobo
 
